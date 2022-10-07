@@ -224,7 +224,7 @@ nav > ul li:has(a):hover {
 	opacity: 0.8;
 }
 .aboutPara2 {
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	opacity: 0.6;
 }
 .aboutPara2:nth-of-type(1) {
@@ -291,6 +291,9 @@ nav > ul li:has(a):hover {
 #sec3 .column:nth-of-type(2) h1 {
 	font-size: 4vmin;
 	margin: 1rem 0;
+}
+#sec2 p, #sec3 p {
+  font-size: 1.3em;
 }
 #sec2 .column:nth-of-type(1) .button,
 #sec3 .column:nth-of-type(2) .button {
