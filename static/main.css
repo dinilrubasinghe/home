@@ -106,7 +106,7 @@ nav > ul li:has(a):hover {
 
 #O-animate {
 	position: fixed;
-	transform: translate(-11.5vmin, 0vmin);
+	transform: translate(-10vmin, 0vmin);
 }
 
 /* --Hero-- */
