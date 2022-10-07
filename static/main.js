@@ -168,7 +168,7 @@ if (window.innerWidth < 696) {
     beautiful animatinos and web manupulations.
   </p>
   <a
-    href="https://dinilrubasinghe.github.io/Portfolio"
+    href="https://dinilrubasinghe.github.io/portfolio-0-1/"
     target="_blank"
     class="button"
     >Visit&nbsp;<i
@@ -192,7 +192,7 @@ if (window.innerWidth < 696) {
     beautiful animatinos and web manupulations.
   </p>
   <a
-    href="https://dinilrubasinghe.github.io/Portfolio"
+    href="https://dinilrubasinghe.github.io/portfolio-0-1/"
     target="_blank"
     class="button"
     >Visit&nbsp;<i
